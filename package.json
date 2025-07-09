@@ -1,0 +1,13 @@
+{
+  "name": "geofs-atc-userscript",
+  "version": "1.0.0",
+  "description": "A userscript for Air Traffic Control (ATC) in GeoFS, managing air traffic and displaying information.",
+  "main": "src/atc.user.js",
+  "scripts": {
+    "start": "node src/atc.user.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {},
+  "author": "",
+  "license": "MIT"
+}
